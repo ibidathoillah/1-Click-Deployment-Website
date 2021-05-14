@@ -3,6 +3,7 @@ routes:
   /signin/: members/signin
   /account/: members/account
   /membership/: members/membership
+  /.well-known/acme-challenge/jGqTv7BRrNlGYMPKBjKg794g5zBhPIHjcI6E7fpv2T4/: ../london/index
 
 collections:
   /:
