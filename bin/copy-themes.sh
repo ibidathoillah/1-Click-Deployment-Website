@@ -7,6 +7,7 @@ themes=(
 	the-shell
 	vapor
 	mapache
+	prometheus
 )
 
 for theme in "${themes[@]}"
