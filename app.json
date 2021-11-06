@@ -9,7 +9,6 @@
   "success_url": "/ghost",
   "addons": [
     "jawsdb",
-    "mailgun",
     "cloudinary"
   ],
   "env": {
