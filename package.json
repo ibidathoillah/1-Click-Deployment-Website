@@ -10,19 +10,19 @@
   "private": true,
   "version": "3.0.0",
   "dependencies": {
-    "attila": "github:zutrinken/attila#1.13.0",
-    "bleak": "github:zutrinken/bleak#1.4.0",
-    "casper": "github:tryghost/Casper",
+    "attila": "https://github.com/zutrinken/attila.git#1.13.0",
+    "bleak": "https://github.com/zutrinken/bleak.git#1.4.0",
+    "casper": "https://github.com/tryghost/Casper.git",
     "ghost": "^3.0.0",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.0.0",
-    "london": "github:tryghost/london#1.0.0",
-    "mapache": "github:godofredoninja/Mapache#v3.1.2",
-    "massively": "github:tryghost/massively#1.0.2",
+    "london": "https://github.com/tryghost/london.git#1.0.0",
+    "mapache": "https://github.com/godofredoninja/Mapache.git#v3.1.2",
+    "massively": "https://github.com/tryghost/massively.git#1.0.2",
     "mysql": "^2.17.1",
-    "prometheus": "github:halfrost/Prometheus#master",
-    "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
-    "vapor": "github:sethlilly/Vapor#v1.6.0"
+    "prometheus": "https://github.com/halfrost/Prometheus.git#master",
+    "the-shell": "https://github.com/mityalebedev/The-Shell.git#v2.0.0",
+    "vapor": "https://github.com/sethlilly/Vapor.git#v1.6.0"
   },
   "engines": {
     "node": "10.X"
